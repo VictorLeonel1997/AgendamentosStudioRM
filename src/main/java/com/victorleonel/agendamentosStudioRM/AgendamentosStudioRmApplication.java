@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AgendamentosStudioRmApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(AgendamentosStudioRmApplication.class, args);
 	}
 
